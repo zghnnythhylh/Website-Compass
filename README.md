@@ -1,4 +1,4 @@
-# 网址罗盘
+# Website Compass
 
 ### 社交
 |   |官网|下载|第三方|
@@ -66,12 +66,22 @@
 |---|---|---|---|
 |Global Potplayer|[官网](https://potplayer.tv/)|[下载](https://potplayer.tv/)|-|
 
+### Flash播放器
+|   |官网|下载|第三方|
+|---|---|---|---|
+|Adobe Flash Player|-|-|[蓝奏云-密码:4nyb](https://stly.lanzouv.com/iY1zh26263rc)
+
 ### 图片查看器
 |   |官网|下载|第三方|
 |---|---|---|---|
-|Honeyview|[官网](https://cn.bandisoft.com/honeyview/)|[下载](https://cn.bandisoft.com/honeyview/)|[蓝奏云](https://stly.lanzouv.com/idqSD262ahcf?webpage=CDlVNVo1AWYJbwZpUDJTYVsxAzFXdAo5CzVabwBvUGAGNls7DWIFZAgiBWI_c)|
+|Honeyview|[官网](https://cn.bandisoft.com/honeyview/)|[下载](https://cn.bandisoft.com/honeyview/)|[蓝奏云-密码:6kkm](https://stly.lanzouv.com/idqSD262ahcf)|
 
 ### 安全
 |   |官网|下载|第三方|
 |---|---|---|---|
 |火绒安全|[官网](https://www.huorong.cn)|-|-|
+
+### 维护
+|   |官网|下载|第三方|
+|---|---|---|---|
+|Geek Uninstaller|[官网](https://geekuninstaller.com/)|[下载（选择左边的Free版）](https://geekuninstaller.com/download)|-|
